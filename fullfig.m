@@ -1,4 +1,5 @@
 function [ h ] = fullfig(varargin)
+% Available in MATLAB file exchange https://in.mathworks.com/matlabcentral/fileexchange/48071-fullfig
 %FULLFIG creates a full-screen figure. 
 % 
 %% Syntax 
