@@ -1,3 +1,7 @@
+The current study attempts to construct a low temperature psychrometric chart whose dry bulb temperature varies from -60 °C to 0 °C at 
+constant atmospheric pressure. This purpose has been accomplished through the numerical code developed in MATLAB, with the thermodynamic 
+ASHRAE data imported from a file. Suitable validation of the chart developed from the current code has also been established.
+
 Program 1: Contruction_Psychor_chart_MATLAB - This is the main code necessary for plotting the psychrometric chart
 fullfig - a function called by the Contruction_Psychor_chart_MATLAB for full  view of psychrometric chart. Available in 
 MATLAB file exchange https://in.mathworks.com/matlabcentral/fileexchange/48071-fullfig
