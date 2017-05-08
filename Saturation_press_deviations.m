@@ -1,5 +1,5 @@
 %Program to find the deviations between the saturation pressures of ASHRAE
-%table and correlation from Hyland and Wexler 1983
+%table and correlation from Hyland and Wexler 1983 - Appendix
 clc;
 clear all;
 format long
@@ -27,5 +27,5 @@ fclose(fid);
 fclose('all');
 max=max(abs(perc_diff));
 min=min(abs(perc_diff));
-fprintf('Maximum Percentage Deiviation = %f\n',max);
-fprintf('Minimum Percentage Deiviation = %f\n',min);
+fprintf('Maximum Percentage Deviation = %f\n',max);
+fprintf('Minimum Percentage Deviation = %f\n',min);
