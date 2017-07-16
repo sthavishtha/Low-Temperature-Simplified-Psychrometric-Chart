@@ -1,5 +1,7 @@
 # Low-Temperature-Simplified-Psychrometric-Chart
 
+- Mini Project offered in the course **Design and Analysis of Air Conditioning systems** (2017) during my bachelor studies.
+
 The current study attempts to construct a low temperature psychrometric chart whose dry bulb temperature varies from -60 °C to 0 °C at 
 constant atmospheric pressure. This purpose has been accomplished through the numerical code developed in MATLAB, with the thermodynamic 
 ASHRAE data imported from a file. 
